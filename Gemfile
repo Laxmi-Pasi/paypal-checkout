@@ -70,3 +70,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+gem 'paypal-checkout-sdk'
+gem "pry", "~> 0.14.1"
